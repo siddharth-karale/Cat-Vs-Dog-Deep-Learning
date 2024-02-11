@@ -18,7 +18,6 @@ This project utilizes a Deep Learning approach, specifically Convolutional Neura
 
 ## Folder Structure: 
 
-* Data: This directory contains the Cat Vs Dog dataset in CSV format.
 * Notebooks: This directory contains Jupyter notebooks with the Python code used for data analysis and visualization.
 * README.md: This file provides an overview of the project, objectives, and instructions for running the code.
 * LICENSE: This project is under the MIT License.
