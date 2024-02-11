@@ -13,8 +13,8 @@ This project utilizes a Deep Learning approach, specifically Convolutional Neura
 ## Technologies Used: 
 
 * Deep Learning library: TensorFlow, PyTorch
-Framework: Keras
-Dataset: [Kaggle](https://www.kaggle.com/datasets/salader/dogs-vs-cats)
+* Framework: Keras
+* Dataset: [Kaggle](https://www.kaggle.com/datasets/salader/dogs-vs-cats)
 
 ## Folder Structure: 
 
